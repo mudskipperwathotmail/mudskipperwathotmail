@@ -1,1 +1,2 @@
 line1: i am file1.txt
+active recall action: review the notes of GIT
