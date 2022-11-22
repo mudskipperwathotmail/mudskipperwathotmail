@@ -1,1 +1,2 @@
 on branch feature3: add more code to file2
+more lines into file2
